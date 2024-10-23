@@ -14,6 +14,7 @@ Using Python, the project produces WAV audio files that contain synthetic spoken
 - DualMCU Development Board (ESP32)
 - UNIT_PAM8403_Audio_Amplifier_3W
 - Speaker
+- SDCard
 - USB Cable
 
 ## Software Required
