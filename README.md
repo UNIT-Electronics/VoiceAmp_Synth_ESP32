@@ -1,5 +1,5 @@
 
-#  
+# VoiceAmp_Synth_ESP32
 
 This repository contains a project for developing a voice synthesizer using an ESP32 microcontroller and a PAM8403 3W audio amplifier. The system utilizes Python for generating WAV audio files and FFmpeg for converting audio bit rates and formats. The project demonstrates how to create and play synthesized voice messages through the ESP32's DAC, outputting amplified sound via the PAM8403 module. Ideal for embedded audio solutions and voice-based applications.
 
